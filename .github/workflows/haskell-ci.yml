@@ -30,7 +30,7 @@ jobs:
         include:
           - compiler: ghc-9.8.1
             compilerKind: ghc
-            compilerVersion: 9.2.5
+            compilerVersion: 9.8.1
             setup-method: ghcup
             allow-failure: false
           - compiler: ghc-9.2.5
